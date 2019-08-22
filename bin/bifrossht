@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'bifrossht/app'
+
+exit Bifrossht::App.run(ARGV)
